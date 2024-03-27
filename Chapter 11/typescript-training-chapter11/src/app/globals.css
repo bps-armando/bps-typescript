@@ -105,6 +105,7 @@ section {
   border: 2px solid whitesmoke;
   border-radius: 10px;
   padding: 0.5em;
+  color: black;
 }
 
 .newItemEntry__button {
