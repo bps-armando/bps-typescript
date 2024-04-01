@@ -1,5 +1,5 @@
 import Nav from "./Nav"
-import useCart from "@/hooks/useCart"
+import useCart from "../hooks/useCart"
 
 type PropsType = {
     viewCart: boolean
